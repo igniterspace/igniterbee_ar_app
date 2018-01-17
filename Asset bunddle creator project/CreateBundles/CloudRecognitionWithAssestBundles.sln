@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudRecognitionWithAssestBundles", "Assembly-CSharp.csproj", "{ED4DA1CA-C71C-7AEE-D738-56D283D04486}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudRecognitionWithAssestBundles", "Assembly-CSharp-Editor.csproj", "{69521E3A-7BD0-E3CF-CCFA-67D406DFE54A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED4DA1CA-C71C-7AEE-D738-56D283D04486}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED4DA1CA-C71C-7AEE-D738-56D283D04486}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED4DA1CA-C71C-7AEE-D738-56D283D04486}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED4DA1CA-C71C-7AEE-D738-56D283D04486}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69521E3A-7BD0-E3CF-CCFA-67D406DFE54A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69521E3A-7BD0-E3CF-CCFA-67D406DFE54A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69521E3A-7BD0-E3CF-CCFA-67D406DFE54A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69521E3A-7BD0-E3CF-CCFA-67D406DFE54A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

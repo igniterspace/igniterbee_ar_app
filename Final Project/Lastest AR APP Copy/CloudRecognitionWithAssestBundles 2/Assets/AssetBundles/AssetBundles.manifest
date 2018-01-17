@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 3231780401
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: model.dualbrushbot
+      Dependencies: {}

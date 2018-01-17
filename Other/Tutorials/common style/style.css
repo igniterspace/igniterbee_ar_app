@@ -1,0 +1,86 @@
+.container-fluid{
+	/*background-color: #ffd800;*/
+	background-color: #e5e5e5;
+}
+.container-fluid-inner{
+	background-color: white;
+	margin: 0px;
+}
+body{
+	background-color: #ffd800;
+}
+
+iframe{
+	height: 100%;
+	width: 100%;
+}
+
+
+/* ----- styling images -----  */
+.logoMain{
+	width: 200px;
+}
+
+.objectPicture{
+	width: 100%;
+	max-width: 800px;
+}
+/* -------------------------  */
+
+/* ----- styling Heading ----- */
+.mainHeading{
+	background-color:#ffd800;
+	color: white;
+	font-size: 20px;
+	width: 160px;
+	padding: 10px;
+}
+
+.mainHeadingDiv{
+	background-color:#0abca1;
+	color: white;
+	font-size: 25px;
+	width: 100%;
+	padding: 10px;
+}
+
+.tuteTitle{
+	/*color: white;*/
+	font-size: 13px;
+	text-align: center;
+}
+
+/* -------------------------  */
+
+/* ----- styling ROWS and COL ----- */
+.col-lg-12{
+	padding: 1px;
+}
+
+.topRow{
+	padding: 10px;		
+}
+.videoRow{
+	height: 400px;
+}
+
+
+.borderRed{
+	border: 2px solid red;
+}
+
+.row{
+	border: 2px solid black;
+}
+/* -------------------------  */
+
+
+
+/* ----- styling BUTTONS----- */
+.leanMoreBtn{
+
+}
+
+
+
+
